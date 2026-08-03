@@ -45,4 +45,24 @@
 - 7/13/1987 HounU
 	- I don't see why not. Negotiations for transportation are in the final stages. If all goes well we will have air passage to Nuance secured for that day.
 - 8/25/1987 LeeB
-	- I think Moore is planning on scheduled maintenance soon, so we should lik
+	- I think Moore is planning on scheduled maintenance soon, so we should likely wrap things up here.
+- 8/25/1987 HounU
+	- I'd say it's time to scrub these logs, they might fall under some scrutiny in the near future
+- 8/26/1987 LeeB
+	- ProvC and HounU and LeeB delisted and deleted from User Database
+- 1/20/1989 MoorR
+	- Temporary access to the mainframe and Blackbridge grotto has been restored to perform routine mainenance.
+- 1/4/1990 MoorR
+	- Temporary access to the mainframe and Blackbridge grotto has been restored to perform routine mainenance.
+- 7/3/1991 MoorR
+	- Updated access privileges for the following account tpyes
+		- Admin Access - Full Access to all features
+		- Personnel Access - Access to User Database
+		- Archive Access - Full Access + access to archived admin logs and deleted database entries
+- 11/25/1992 MoorR
+	- R.T.A is down while we work on a solution to remoted terminal connection failures
+- 11/28/1992 MoorR
+	- R.T.A is working again. Terminal connections tested and confirmed functional. To make future testing easier, added ability to access offline terminals through the R.T.A when Blackbridge is open.
+- 1/29/1993 MoorR
+	- Per request, one temporary admin key has been added to the network. RuotH
+- 2/20/1993 Moor
