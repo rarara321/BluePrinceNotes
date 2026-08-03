@@ -6,37 +6,17 @@
       {
         "id": "b6b175c951b2b2f7",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "cb3ecc41664c9af4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8868fbdc04a8c188",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "7a2fa4bb4b0d36b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Clues/Realm Sigils.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Eraja Postcard.png"
               },
-              "icon": "lucide-file",
-              "title": "Realm Sigils"
+              "icon": "lucide-image",
+              "title": "Eraja Postcard"
             }
           }
         ]
@@ -59,9 +39,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,22 +170,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb3ecc41664c9af4",
+  "active": "99b381088ccb5a0b",
   "lastOpenFiles": [
+    "Files/Admin Logs - 16.png",
+    "Files/Admin Logs - 15.png",
+    "Files/Admin Logs - 14.png",
+    "Files/Admin Logs - 13.png",
+    "Files/Admin Logs - 12.png",
+    "Files/Admin Logs - 11.png",
+    "Files/Admin Logs - 10.png",
+    "Files/Admin Logs - 9.png",
+    "Files/Admin Logs - 8.png",
+    "Files/Admin Logs - 7.png",
+    "Files/Admin Logs - 6.png",
+    "Files/Eraja Postcard.md",
     "Clues/Realm Sigils.md",
     "Git",
     "Origin",
-    "Files/Realm & Ruin - 9.png",
-    "Files/Realm & Ruin - 8.png",
-    "Files/Realm & Ruin - 7.png",
-    "Files/Realm & Ruin - 6.png",
-    "Files/Realm & Ruin - 10.png",
-    "Files/Realm & Ruin - 5.png",
-    "Files/Realm & Ruin - 4.png",
-    "Files/Realm & Ruin - 3.png",
-    "Files/Realm & Ruin - 2.png",
-    "Pasted image 20260802180330.png",
-    "Eraja Postcard.md",
     "Untitled.base",
     "Notes/Grade 1 Classroom.md",
     "Clues/Paintings Message.md",
