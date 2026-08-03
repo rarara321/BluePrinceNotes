@@ -4,13 +4,13 @@
 		- She was no stranger to the public eye before her literary success. The niece and closest living relation of [[Herbert Sinclair|Baron H.S. Sinclair]], Mary began using Marigold as her pen name to free her from the political associations that one might make with the Sinclair Family.
 - January 27 1986
 	- **"SWIM BIRD" AUTHOR NEVER CONSIDERED HERSELF SUCCESS**
-		- By [[Characters & Groups/Gales Hermes]], Herald Staff writer.
+		- By [[Gales Hermes]], Herald Staff writer.
 		- She confided "[[Simon Jones|My son]] was the one that actually got me to start writing. I had always challenged myself to never tell him the same story twice at bedtime, and so as we ran out of book we owned, my imagination had to take over from there."
 		- Marigold has elaborated in previous interviews that her debut book "Red Prince" is based on her son and his inflexible lore of the color red. A statement that has been held with much skepticism by the many pundits that viewed the book as a rather thinly veiled political critique of the royalist party and their blind loyalty to the throne.
 - November 11 1986
 	- PUBLISHER & AUTHOR DETAINED BY RED GUARD, QUESTIONED
 		- [[Caleb Manning]] and his publisher [[Phillip White]] were two of three dozen names that appeared of a leaked dossier naming them a "person of interest" in the [[Trinsdale]] bombing that killed four people last Tuesday.
-		- Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of the insurgent group RLCF who also call themselves "[[Characters & Groups/The Children of Black Water]]"
+		- Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of the insurgent group RLCF who also call themselves "[[The Children of Black Water]]"
 		- [[Ruffington Red Publishing|Ruffington Press]] was quick to dismiss the rumors in a statement released on Friday, maintaining that the popular author (And Mr. White) were simply "victims of an unfortunate happenstance," whatever that means.
 		- This would not be the first time that the Publishing House had defended a rogue employee. Three years ago, an associate editor with the company was arrested for criminal conspiracy, through the chargers were later dropped.
 - November 17th 1986

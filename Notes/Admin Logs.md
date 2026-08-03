@@ -1,3 +1,4 @@
+# Photos
 ![[Admin Logs - 1.png]]![[Admin Logs - 2.png]]
 ![[Admin Logs - 3.png]]
 ![[Admin Logs - 4.png]]![[Admin Logs - 5.png]]![[Admin Logs - 6.png]]![[Admin Logs - 7.png]]
