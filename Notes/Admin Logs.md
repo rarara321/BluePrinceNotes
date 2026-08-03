@@ -1,4 +1,4 @@
-# Photos
+8# Photos
 ![[Admin Logs - 1.png]]![[Admin Logs - 2.png]]
 ![[Admin Logs - 3.png]]
 ![[Admin Logs - 4.png]]![[Admin Logs - 5.png]]![[Admin Logs - 6.png]]![[Admin Logs - 7.png]]
@@ -33,3 +33,16 @@
 - 2/18/1987 LeeB
 	- If it must be done, it must be done. Just see to it that the body is not discovered. The last thing we need is for the Red Guard to be snooping around here.
 - 2/21/1987 HounU
+	- She won't be found. Rest assured.
+- 2/21/1987 LeeB
+	- Let's disperse for now. I'll meet you all at the safehouse in [[Reddington]] in four days. Then, once the inquiry is over, we will proceed our plans for the museum
+- 6/26/1987 LeeB
+	- Resuming operations.
+- 6/27/1987 ProvC
+	- Welcome back Lee. I've been camping out of the old schoolhouse for the past month waiting for your return. It's spacious, quiet, and should prove to be an effective base of operations, outside of the purview of the staff and the Baron.
+- 7/10/1987 LeeB
+	- We should have an opening on the first day of September. Can we be ready by then?
+- 7/13/1987 HounU
+	- I don't see why not. Negotiations for transportation are in the final stages. If all goes well we will have air passage to Nuance secured for that day.
+- 8/25/1987 LeeB
+	- I think Moore is planning on scheduled maintenance soon, so we should lik
