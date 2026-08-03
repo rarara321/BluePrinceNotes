@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Room 46.md",
+                "file": "Clues/Chess Pieces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Room 46"
+              "title": "Chess Pieces"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "cb3ecc41664c9af4",
   "lastOpenFiles": [
-    "Pasted image 20260803182117.png",
     "Rooms/Room 46.md",
+    "Pasted image 20260803182117.png",
     "Notes/Admin Logs.md",
     "Characters & Groups/People/Mary Matthew Jones.md",
     "Notes/Attic Note.md",
@@ -223,7 +223,6 @@
     "Files/Admin Logs - 12.png",
     "Files/Admin Logs - 11.png",
     "Files/Admin Logs - 10.png",
-    "Files/Admin Logs - 9.png",
     "Files/Eraja Postcard.md",
     "Clues/Realm Sigils.md",
     "Git",
