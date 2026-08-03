@@ -11,14 +11,12 @@
             "id": "cb3ecc41664c9af4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Eraja Postcard.png"
               },
-              "icon": "lucide-file",
-              "title": "test"
+              "icon": "lucide-image",
+              "title": "Eraja Postcard"
             }
           }
         ]
@@ -172,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb3ecc41664c9af4",
+  "active": "99b381088ccb5a0b",
   "lastOpenFiles": [
     "Files/Eraja Postcard.png",
     "test.md",
