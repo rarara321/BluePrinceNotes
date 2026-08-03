@@ -65,4 +65,12 @@
 	- R.T.A is working again. Terminal connections tested and confirmed functional. To make future testing easier, added ability to access offline terminals through the R.T.A when Blackbridge is open.
 - 1/29/1993 MoorR
 	- Per request, one temporary admin key has been added to the network. RuotH
-- 2/20/1993 Moor
+- 2/20/1993 MoorR
+	- Admin key deactivated RuotH
+- 6/22/1993 MoorR
+	- One new admin key has been added to the network ThomK (Welcome to the team!)
+- 8/1/1993 ThomK
+	- Added new data management features to Blackbridge Admin Control
+	- Updated USER DATABASE
+- 11/6/1993 MoorR
+	- Changing of the guard- In preparation for [[Simon Jones|Simon's]] arrival, inbound and outbound messages, as well as offsite connections from outside the estate, have been disabled per the instructions left by the
