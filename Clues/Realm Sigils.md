@@ -4,7 +4,7 @@ A sigil is a "statement" about a country ore region.
 
 Sigils are made of 4 different aspects
 - The Core`
-	- Refers to the region or country being referenced\ in the statement
+- Refers to the region or country being referenced\ in the statement
 	- Country Codes
 		- ![[Marking.png]] Orinda Ares
 			- Metropolitan
