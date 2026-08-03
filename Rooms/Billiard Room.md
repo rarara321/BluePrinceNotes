@@ -1,0 +1,4 @@
+- Blue Add
+- Pink Mult
+- Yellow Sub
+- Purple Div

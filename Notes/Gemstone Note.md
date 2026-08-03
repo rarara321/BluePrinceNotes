@@ -1,0 +1,1 @@
+![[Unknown mining letter.png]]

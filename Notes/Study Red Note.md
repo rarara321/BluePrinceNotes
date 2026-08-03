@@ -1,0 +1,1 @@
+![[Study Red Note  - 1.png]]![[Study Red Note - 2.png]]![[Study Red Note - 3.png]]

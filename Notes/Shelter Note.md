@@ -1,0 +1,1 @@
+![[Red Guard note.png]]

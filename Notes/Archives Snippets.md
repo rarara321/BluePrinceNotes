@@ -1,0 +1,29 @@
+- August 22- 1985
+	- **MARIGOLD WINS HERALD LITERARY HONOR**
+		- Popular children's writer, [[Mary Matthew Jones|Marion Marigold]] adds yet another feather to her scholastic cap when she discovered on Thursday that her picture book "Swim Bird" had been chosen as the Herald Literary Medal Illustrated book of the year. This is Marigold's second time winning this prestigious honor was of course for her debut effort.
+		- She was no stranger to the public eye before her literary success. The niece and closest living relation of [[Herbert Sinclair|Baron H.S. Sinclair]], Mary began using Marigold as her pen name to free her from the political associations that one might make with the Sinclair Family.
+- January 27 1986
+	- **"SWIM BIRD" AUTHOR NEVER CONSIDERED HERSELF SUCCESS**
+		- By [[Characters & Groups/Gales Hermes]], Herald Staff writer.
+		- She confided "[[Simon Jones|My son]] was the one that actually got me to start writing. I had always challenged myself to never tell him the same story twice at bedtime, and so as we ran out of book we owned, my imagination had to take over from there."
+		- Marigold has elaborated in previous interviews that her debut book "Red Prince" is based on her son and his inflexible lore of the color red. A statement that has been held with much skepticism by the many pundits that viewed the book as a rather thinly veiled political critique of the royalist party and their blind loyalty to the throne.
+- November 11 1986
+	- PUBLISHER & AUTHOR DETAINED BY RED GUARD, QUESTIONED
+		- [[Caleb Manning]] and his publisher [[Phillip White]] were two of three dozen names that appeared of a leaked dossier naming them a "person of interest" in the [[Trinsdale]] bombing that killed four people last Tuesday.
+		- Although no group has come forth to officially take responsibility of the attack, it is widely believed by authorities to be the work of the insurgent group RLCF who also call themselves "[[Characters & Groups/The Children of Black Water]]"
+		- [[Ruffington Red Publishing|Ruffington Press]] was quick to dismiss the rumors in a statement released on Friday, maintaining that the popular author (And Mr. White) were simply "victims of an unfortunate happenstance," whatever that means.
+		- This would not be the first time that the Publishing House had defended a rogue employee. Three years ago, an associate editor with the company was arrested for criminal conspiracy, through the chargers were later dropped.
+- November 17th 1986
+	- MARIGOLD DROPS PUBLISHER
+		- Local author and popular personality, Marion Marigold has announced a split with her long term publishing partner, Ruffington Press, citing personal reasons. The announcement came after the arrest last week of fellow author and colleague, Caleb Manning, whom Marigold has past referred to as her mentor, friend and confidant.
+		- Marigold is the third prominent writer to distance themselves from the Publisher this week.
+		- ![[Manning and White Newspaper Clippings.png]]
+- February 22nd 1987
+	- NO TRACE IS DISCOVERED OF [[Synka]] HEIRESS BUT SEARCH CONTINUES
+		- Mary Matthew Jones, the author and illustrator whose fanciful stories are written under the pen name Marion Marigold, was last seen by a close friend around 3:45pm Friday getting into a carriage after a late luncheon date at the Hundred Bells Tea Room in Trinsdale. Mr.s Jones never arrived home and the carriage driver cannot be located. Family and local authorities are very concerned but have not deemed the case foul play. "It's an out-of-character incident at this point and we are seeking information"
+- September 2nd, 1987
+	- PRICESLESS JEWELS STOLEN IN DRAMATIC ROYAL MUSEUM HEIST
+		- Thieves in the royal capital of [[Locations/Fenn Aries]] have broken into one of the Crown's fabled *closed* exhibits. These lavish rooms have historically been reserved exclusively for the use of the aristocracy and high peerage, and access has never been granted to those outside noble circles. At least not until today as local police and forensic experts have been spotted in virtually every corner of the Museum grounds dredging for clues.
+		- The museum authorities said they were alerted in the middle of the night by reports of several masked intruders seen breaching the south wall and brandishing firearms. The intruders broke into the museum subdued the Royal Guard and disabled the security system. By the time the militia arrived on the scene, the burglars had simple vanished.
+		- Although as official registry of the lost jewels has not been publicly announced, among the trearued artifacts rumored to be stolen in the renowned Baby Crown of [[Orlada Aries]], the priceless crown jewel whose material worth pales in comparison to the historic value. If these rumors are true, the evidence may suggest that the theft was politically motivated.
+

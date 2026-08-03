@@ -1,0 +1,1 @@
+![[Treble Clef Denoted in Verse.png]]
