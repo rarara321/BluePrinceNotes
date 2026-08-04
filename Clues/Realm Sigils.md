@@ -12,11 +12,12 @@ Sigils are made of 4 different aspects
 			- Black
 			- Foggy
 		- ![[Pentagram.png]] Fenn Aries (Now Orinda Area)
+			- ![[Pasted image 20260803233430.png]]
 			- Martial
 			- Roads
 			- Red
 			- Foggy
-		- ![[Hourglass.png]] Eraja
+		- ![[Hourglass.png]] Eraja 
 			- Poetic
 			- Trains
 			- Violet
@@ -24,13 +25,25 @@ Sigils are made of 4 different aspects
 		- ![[Heart.png]] Coracai
 			- Orange
 		- ![[Mountain Copy.png]] Arch Aries
+			- ![[Pasted image 20260803233340.png]]
 			- Yellow
+			- Stormy
+			- Trains
+			- Industry
 		- ![[House.png]] Verra
-			- Spiritual
+			- ![[Pasted image 20260803233402.png]]
+			- Snowy
+			- Turtle Riders
+			- Tribal?
 		- ![[Rainbow.png]] Mora Jai
 			- ![[Mora Jai Stamp.png]]
 			- Mora Jai is White and sea-faring
+			- Maybe agriculture?
+			- 
 		- ![[Diamond.png]] Nuance
+			- ![[Pasted image 20260803230221.png]]
+			- Green
+			- Aviation
 - The Dividing Lines (Rays)
 	- Its mostly cut off in the copy of Realm &, but it's referring to transportation methods.
 		- 8 Refers to naval

@@ -87,8 +87,8 @@ We also see that these are aligned to RED, GREEN, VIOLET, BLUE, which are books:
 - Draft the Sixes
 
 Which are anagrams of:
-- The Red Prince
-- Realm and Rune
+- [[The Red Prince]]
+- Realm and Ruin
 - A New Clue
 - The Fixed Stars
 

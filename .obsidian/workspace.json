@@ -12,13 +12,32 @@
             "id": "cb3ecc41664c9af4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Clues/Realm Sigils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Realm Sigils"
+            }
+          },
+          {
+            "id": "91434437b1974a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8868fbdc04a8c188",
@@ -29,14 +48,12 @@
             "id": "7a2fa4bb4b0d36b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Clues/Realm Sigils.md",
-                "mode": "source",
-                "source": false
+                "file": "Files/Realm & Ruin - 8.png"
               },
-              "icon": "lucide-file",
-              "title": "Realm Sigils"
+              "icon": "lucide-image",
+              "title": "Realm & Ruin - 8"
             }
           }
         ]
@@ -192,21 +209,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb3ecc41664c9af4",
+  "active": "91434437b1974a4c",
   "lastOpenFiles": [
     "Clues/Realm Sigils.md",
-    "Git",
-    "Origin",
-    "Files/Realm & Ruin - 9.png",
+    "conflict-files-obsidian-git.md",
     "Files/Realm & Ruin - 8.png",
+    "Files/Realm & Ruin - 9.png",
     "Files/Realm & Ruin - 7.png",
     "Files/Realm & Ruin - 6.png",
     "Files/Realm & Ruin - 10.png",
-    "Files/Realm & Ruin - 5.png",
+    "Files/Artie Anders Geography Worksheet.png",
     "Files/Realm & Ruin - 4.png",
-    "Files/Realm & Ruin - 3.png",
+    "Files/Realm & Ruin - 5.png",
     "Files/Realm & Ruin - 2.png",
-    "Pasted image 20260802180330.png",
+    "Files/Realm & Ruin - 3.png",
+    "Arch Aries Postcard.md",
+    "Rooms/Greenhouse.md",
+    "Notes/Garage Note.md",
+    "Notes/The Original Gardener's Logbook.md",
+    "Rooms/Treasure Trove.md",
+    "Notes/The Curse of Black Bridge.md",
+    "Clues/Admin Passwords.md",
+    "Notes/The History of Orindia First Edition.md",
+    "Rooms/Conservatory.md",
+    "Foreman's Log 20.md",
+    "Rooms/Room 46.md",
+    "Notes/Realm and Ruin.md",
+    "Files/Eraja Postcard.md",
+    "Characters & Groups/People/Thomas Yanders.md",
+    "Characters & Groups/Locations/Trinsdale.md",
+    "Characters & Groups/Locations/Nuance.md",
+    "Git",
+    "Origin",
     "Eraja Postcard.md",
     "Untitled.base",
     "Notes/Grade 1 Classroom.md",
@@ -215,23 +249,6 @@
     "Clues/Music Note.md",
     "Clues/Chess Pieces.md",
     "Clues/Colors.md",
-    "Clues/Admin Passwords.md",
-    "Notes/The Red Prince.md",
-    "Notes/Trading Post Note.md",
-    "Notes/Treble Clef.md",
-    "Notes/Underground Map.md",
-    "Notes/VAC Indicator Email.md",
-    "Notes/Vault 370 Note.md",
-    "Notes/Welcome to Mount Holly.md",
-    "Notes/Cloister Note.md",
-    "Characters & Groups/People/Herbert Sinclair.md",
-    "Notes/Bunkbed Note.md",
-    "Notes/Car Note.md",
-    "Notes/Boudoir Red Note.md",
-    "Notes/Blackbridge Grotto.md",
-    "Notes/Attic Note.md",
-    "Notes/Archives Snippets.md",
-    "Notes/Admin Logs.md",
     "Untitled 4.base",
     "Untitled 6.base",
     "Untitled 2.base",

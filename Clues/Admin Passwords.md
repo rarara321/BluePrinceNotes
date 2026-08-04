@@ -3,6 +3,7 @@ LeeB - Archive Access
 RuotH - Deactivated
 ThomK - Admin
 MoorR - Admin
+BabbA - Personnel
 
 # Users
 MoorR (Admin)

@@ -1,0 +1,2 @@
+![[Pasted image 20260803232254.png]]
+![[Pasted image 20260803232312.png]]![[Pasted image 20260803232332.png]]THIS STORY IS FUCKING LONG JUST GET THE TEXT BRO
