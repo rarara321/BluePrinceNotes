@@ -25,14 +25,12 @@
             "id": "5ce4ef646ab242d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Rooms/Bedroom.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260803233953.png"
               },
-              "icon": "lucide-file",
-              "title": "Bedroom"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260803233953"
             }
           }
         ],
@@ -211,11 +209,16 @@
   },
   "active": "99b381088ccb5a0b",
   "lastOpenFiles": [
+    "Pasted image 20260803233430.png",
+    "Pasted image 20260803221044.png",
+    "Pasted image 20260803233340.png",
+    "Pasted image 20260803221641.png",
+    "Pasted image 20260803221331.png",
+    "Rooms/Bedroom.md",
     "Rooms/Closet.md",
     "Rooms/Corridor.md",
     "Rooms/Office.md",
     "Rooms/Schoolhouse.md",
-    "Rooms/Bedroom.md",
     "Rooms/Treasure Trove.md",
     "Rooms/Conservatory.md",
     "Pasted image 20260803234633.png",
@@ -224,10 +227,6 @@
     "Pasted image 20260803233946.png",
     "Pasted image 20260803233936.png",
     "Pasted image 20260803233926.png",
-    "Pasted image 20260803233916.png",
-    "Pasted image 20260803233905.png",
-    "Pasted image 20260803233856.png",
-    "Pasted image 20260803233847.png",
     "Notes/The Original Gardener's Logbook.md",
     "Notes/The History of Orindia First Edition.md",
     "Notes/The Curse of Black Bridge.md",
@@ -246,7 +245,6 @@
     "Characters & Groups/Locations/Nuance.md",
     "Characters & Groups/Locations/Reddington.md",
     "Characters & Groups/People/Herbert Sinclair.md",
-    "Characters & Groups/Locations/Trinsdale.md",
     "Git",
     "Origin",
     "Untitled.base",
