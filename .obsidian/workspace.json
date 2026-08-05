@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Closet.md",
+                "file": "Rooms/Bedroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closet"
+              "title": "Bedroom"
             }
           }
         ],
@@ -209,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ce4ef646ab242d3",
+  "active": "99b381088ccb5a0b",
   "lastOpenFiles": [
+    "Rooms/Closet.md",
     "Rooms/Corridor.md",
     "Rooms/Office.md",
     "Rooms/Schoolhouse.md",
@@ -246,7 +247,6 @@
     "Characters & Groups/Locations/Reddington.md",
     "Characters & Groups/People/Herbert Sinclair.md",
     "Characters & Groups/Locations/Trinsdale.md",
-    "Notes/A Sightseer's Guide to Reddington.md",
     "Git",
     "Origin",
     "Untitled.base",
