@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rooms/Office.md",
+                "file": "Rooms/Closet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Office"
+              "title": "Closet"
             }
           }
         ],
@@ -211,6 +211,8 @@
   },
   "active": "5ce4ef646ab242d3",
   "lastOpenFiles": [
+    "Rooms/Corridor.md",
+    "Rooms/Office.md",
     "Rooms/Schoolhouse.md",
     "Rooms/Bedroom.md",
     "Rooms/Treasure Trove.md",
@@ -245,8 +247,6 @@
     "Characters & Groups/People/Herbert Sinclair.md",
     "Characters & Groups/Locations/Trinsdale.md",
     "Notes/A Sightseer's Guide to Reddington.md",
-    "Notes/A New Clue Sold Out in Hours.md",
-    "Notes/A New Clue.md",
     "Git",
     "Origin",
     "Untitled.base",
