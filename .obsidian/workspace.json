@@ -25,12 +25,14 @@
             "id": "5ce4ef646ab242d3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260803233953.png"
+                "file": "Arch Aries Postcard.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260803233953"
+              "icon": "lucide-file",
+              "title": "Arch Aries Postcard"
             }
           }
         ],
@@ -209,6 +211,8 @@
   },
   "active": "99b381088ccb5a0b",
   "lastOpenFiles": [
+    "Pasted image 20260803234633.png",
+    "Pasted image 20260803233953.png",
     "Pasted image 20260803233430.png",
     "Pasted image 20260803221044.png",
     "Pasted image 20260803233340.png",
@@ -221,9 +225,7 @@
     "Rooms/Schoolhouse.md",
     "Rooms/Treasure Trove.md",
     "Rooms/Conservatory.md",
-    "Pasted image 20260803234633.png",
     "Pasted image 20260803234011.png",
-    "Pasted image 20260803233953.png",
     "Pasted image 20260803233946.png",
     "Pasted image 20260803233936.png",
     "Pasted image 20260803233926.png",
