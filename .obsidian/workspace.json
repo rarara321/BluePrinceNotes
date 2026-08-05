@@ -8,55 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb3ecc41664c9af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clues/Chess Pieces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chess Pieces"
-            }
-          },
-          {
             "id": "5ce4ef646ab242d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch Aries Postcard.md",
+                "file": "Clues/Realm Sigils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Aries Postcard"
+              "title": "Realm Sigils"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "896f53adde7ff768",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "13972423aab3b6e9",
+            "id": "f38161f49db2fab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Admin Logs.md",
+                "file": "Rooms/Treasure Trove.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Admin Logs"
+              "title": "Treasure Trove"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,44 +189,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99b381088ccb5a0b",
+  "active": "f38161f49db2fab8",
   "lastOpenFiles": [
-    "Pasted image 20260803234633.png",
-    "Pasted image 20260803233953.png",
-    "Pasted image 20260803233430.png",
-    "Pasted image 20260803221044.png",
-    "Pasted image 20260803233340.png",
-    "Pasted image 20260803221641.png",
-    "Pasted image 20260803221331.png",
+    "Pasted image 20260804212043.png",
+    "The Last Will and Testament of me, Herbert S. Sinclair.md",
+    "Pasted image 20260804211617.png",
+    "Pasted image 20260804211534.png",
+    "Pasted image 20260804211517.png",
+    "Pasted image 20260804211443.png",
+    "Pasted image 20260804211428.png",
+    "Clues/Realm Sigils.md",
+    "Notes/Property Deed.md",
+    "Pasted image 20260804211332.png",
+    "Pasted image 20260804211321.png",
+    "Clues/8 realms 8 days.md",
+    "Notes/Grade 4 Classroom.md",
+    "Mora Jai Postcard.md",
+    "Nuance Postcard.md",
+    "Verra Postcard.md",
+    "Corarica Postcard.md",
+    "Files/Eraja Postcard.md",
+    "Arch Aries Postcard.md",
+    "Clues/Realm Sigils Pieces.md",
+    "Files/Realm & Ruin - 9.png",
+    "Pasted image 20260804203824.png",
+    "Files/Realm & Ruin - 8.png",
+    "Clues/Chess Pieces.md",
+    "Rooms/Treasure Trove.md",
+    "Notes/Admin Logs.md",
+    "Rooms/Antechamber.md",
     "Rooms/Bedroom.md",
     "Rooms/Closet.md",
     "Rooms/Corridor.md",
     "Rooms/Office.md",
     "Rooms/Schoolhouse.md",
-    "Rooms/Treasure Trove.md",
     "Rooms/Conservatory.md",
-    "Pasted image 20260803234011.png",
-    "Pasted image 20260803233946.png",
-    "Pasted image 20260803233936.png",
-    "Pasted image 20260803233926.png",
     "Notes/The Original Gardener's Logbook.md",
     "Notes/The History of Orindia First Edition.md",
     "Notes/The Curse of Black Bridge.md",
-    "Arch Aries Postcard.md",
-    "Rooms/Resevoir.md",
-    "Foreman's Log 20.md",
-    "Clues/Chess Pieces.md",
-    "Rooms/Room 46.md",
-    "Notes/Admin Logs.md",
-    "Characters & Groups/People/Mary Matthew Jones.md",
-    "Notes/Attic Note.md",
-    "Characters & Groups/People/Andrew Darle.md",
-    "Characters & Groups/People/Thomas Yanders.md",
-    "Notes/Archives Snippets.md",
-    "Characters & Groups/People/Simon Jones.md",
-    "Characters & Groups/Locations/Nuance.md",
-    "Characters & Groups/Locations/Reddington.md",
-    "Characters & Groups/People/Herbert Sinclair.md",
     "Git",
     "Origin",
     "Untitled.base",

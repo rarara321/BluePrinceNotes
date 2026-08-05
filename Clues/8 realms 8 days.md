@@ -1,0 +1,35 @@
+- Orinda Ares
+	- First
+	- "Departed going south"
+	- "Visting a fragment of the old kingdom"
+- Fenn Aries
+	- Last one
+	- "Air travel is better than sea travel"
+- Arch Aries
+	- Arrived after a few days of sailing
+	- Way more convienent when the railway tracks extended all the way north
+	- Traveled along northern coast when there
+- Eraja
+	- "Lorya Yenna, Aylor Lune"
+- Coracai
+	- Arrived here right after Verra
+	- Forgoes all but one book
+- Mora Jai
+	- Arrived via short sea voyage
+	- "Each realm I previously visited was short on solitude"
+- Verra
+	- Went here after Mora Jai
+- Nuance
+	- Went here after Mora Jai and Coracai
+	- Looking east toward home
+# Solution
+- Orinda Ares
+- Eraja
+- Arch Aries
+- Mora Jai
+- Verra
+- Coracai
+- Nuance
+- Fenn Aries
+
+Mora Jai -> Verra -> Coracai

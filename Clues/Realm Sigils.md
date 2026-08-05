@@ -20,10 +20,13 @@ Sigils are made of 4 different aspects
 		- ![[Hourglass.png]] Eraja 
 			- Poetic
 			- Trains
-			- Violet
+				- Violet
 			- Rainy
 		- ![[Heart.png]] Coracai
 			- Orange
+			- Academic
+			- Snowy
+			- Roads
 		- ![[Mountain Copy.png]] Arch Aries
 			- ![[Pasted image 20260803233340.png]]
 			- Yellow
@@ -32,18 +35,22 @@ Sigils are made of 4 different aspects
 			- Industry
 		- ![[House.png]] Verra
 			- ![[Pasted image 20260803233402.png]]
-			- Snowy
+			- Heat
 			- Turtle Riders
-			- Tribal?
+			- Pink
+			- Spiritual
 		- ![[Rainbow.png]] Mora Jai
 			- ![[Mora Jai Stamp.png]]
-			- Mora Jai is White and sea-faring
-			- Maybe agriculture?
-			- 
+			- White
+			- Sea-faring
+			- Agricultural
+			- Plain Weather
 		- ![[Diamond.png]] Nuance
 			- ![[Pasted image 20260803230221.png]]
 			- Green
 			- Aviation
+			- Windy
+			- Martial
 - The Dividing Lines (Rays)
 	- Its mostly cut off in the copy of Realm &, but it's referring to transportation methods.
 		- 8 Refers to naval
